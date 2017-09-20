@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="LoginNavigation.SettingsPage" 
+             Title="Settings" >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            Text="Back" 
+            Icon="" 
+            Clicked="OnBackButtonClicked"/>
+    </ContentPage.ToolbarItems>
+	<ContentPage.Content>
+		<StackLayout 
+            VerticalOptions="StartAndExpand"
+             Padding="20" >
+			<Label 
+                Text="Passport Server URL" />
+			<Entry 
+                x:Name="passportServerURLEntry" 
+                Placeholder="passport server URL" />
+			<Label 
+                Text="Domain Name" />
+			<Entry 
+                x:Name="domainNameEntry"/>			
+             <StackLayout Padding="70">
+                <Button 
+                    x:Name="saveButton"
+                    Text="Save" 
+                    Clicked="OnSaveButtonClicked" 
+                    BackgroundColor="#0D6595"
+                    TextColor="White" />
+            </StackLayout>
+			<Label x:Name="messageLabel" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

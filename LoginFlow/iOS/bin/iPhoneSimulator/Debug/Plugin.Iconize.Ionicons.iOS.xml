@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Iconize.Ionicons.iOS</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Iconize.Fonts.IoniconsCollection">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.IoniconsCollection" /> icon collection.
+            </summary>
+        </member>
+        <member name="P:Plugin.Iconize.Fonts.IoniconsCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>
+            The icons.
+            </value>
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.IoniconsCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:Plugin.Iconize.Fonts.IoniconsCollection" /> class.
+            </summary>
+        </member>
+        <member name="T:Plugin.Iconize.Fonts.IoniconsModule">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.IoniconsModule" /> icon module.
+            </summary>
+            <seealso cref="T:Plugin.Iconize.IconModule" />
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.IoniconsModule.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Plugin.Iconize.Fonts.IoniconsModule" /> class.
+            </summary>
+        </member>
+    </members>
+</doc>

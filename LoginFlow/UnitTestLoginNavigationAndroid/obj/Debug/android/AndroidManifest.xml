@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="UnitTestLoginNavigationAndroid.UnitTestLoginNavigationAndroid">
+  <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:name="android.app.Application" android:allowBackup="true" android:label="UnitTestLoginNavigationAndroid.UnitTestLoginNavigationAndroid" android:debuggable="true">
+    <activity android:label="UnitTestLoginNavigationAndroid" android:name="md57e9df15d17ccd0ec96fad2c965065036.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="NUnitLite runner" android:name="md5e0d9a58f8ef4c80c20dd923cca887f60.TestSuiteActivity" />
+    <activity android:label="Test Result" android:name="md5e0d9a58f8ef4c80c20dd923cca887f60.TestResultActivity" />
+    <activity android:configChanges="keyboardHidden|orientation" android:label="Options" android:windowSoftInputMode="stateUnspecified|adjustPan" android:name="md5e0d9a58f8ef4c80c20dd923cca887f60.OptionsActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="UnitTestLoginNavigationAndroid.UnitTestLoginNavigationAndroid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.UnitTestLoginNavigationAndroid.UnitTestLoginNavigationAndroid" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

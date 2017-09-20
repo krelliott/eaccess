@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Iconize.Typicons.UWP</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Iconize.Fonts.TypiconsCollection">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.TypiconsCollection" /> icon collection.
+            </summary>
+        </member>
+        <member name="P:Plugin.Iconize.Fonts.TypiconsCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>
+            The icons.
+            </value>
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.TypiconsCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:Plugin.Iconize.Fonts.TypiconsCollection" /> class.
+            </summary>
+        </member>
+        <member name="T:Plugin.Iconize.Fonts.TypiconsModule">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.TypiconsModule" /> icon module.
+            </summary>
+            <seealso cref="T:Plugin.Iconize.IconModule" />
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.TypiconsModule.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Plugin.Iconize.Fonts.TypiconsModule" /> class.
+            </summary>
+        </member>
+    </members>
+</doc>

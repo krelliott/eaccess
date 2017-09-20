@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Iconize.Meteocons.UWP</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Iconize.Fonts.MeteoconsCollection">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.MeteoconsCollection" /> icon collection.
+            </summary>
+        </member>
+        <member name="P:Plugin.Iconize.Fonts.MeteoconsCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>
+            The icons.
+            </value>
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.MeteoconsCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:Plugin.Iconize.Fonts.MeteoconsCollection" /> class.
+            </summary>
+        </member>
+        <member name="T:Plugin.Iconize.Fonts.MeteoconsModule">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.MeteoconsModule" /> icon module.
+            </summary>
+            <seealso cref="T:Plugin.Iconize.IconModule" />
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.MeteoconsModule.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Plugin.Iconize.Fonts.MeteoconsModule" /> class.
+            </summary>
+        </member>
+    </members>
+</doc>

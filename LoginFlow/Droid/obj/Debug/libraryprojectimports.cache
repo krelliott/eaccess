@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/FastAndroidCamera/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/FormsPlugin.Iconize.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.EntypoPlus.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.FontAwesome.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Ionicons.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Material.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Meteocons.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.SimpleLineIcons.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Typicons.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.WeatherIcons.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/ZXing.Net.Mobile.Forms.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/ZXingNetMobile/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/FastAndroidCamera/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/FormsPlugin.Iconize.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.EntypoPlus.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.FontAwesome.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.Ionicons.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.Material.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.Meteocons.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.SimpleLineIcons.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.Typicons.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Iconize.WeatherIcons.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/ZXing.Net.Mobile.Forms.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/ZXingNetMobile/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/FastAndroidCamera.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/FormsPlugin.Iconize.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.EntypoPlus.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.FontAwesome.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Ionicons.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Material.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Meteocons.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.SimpleLineIcons.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.Typicons.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Plugin.Iconize.WeatherIcons.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/ZXing.Net.Mobile.Forms.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/karlaelliott/Downloads/LoginFlow/Droid/obj/Debug/__library_projects__/ZXingNetMobile.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

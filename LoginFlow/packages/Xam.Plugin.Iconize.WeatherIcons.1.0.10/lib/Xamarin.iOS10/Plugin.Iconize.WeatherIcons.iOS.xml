@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Iconize.WeatherIcons.iOS</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Iconize.Fonts.WeatherIconsCollection">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.WeatherIconsCollection" /> icon collection.
+            </summary>
+        </member>
+        <member name="P:Plugin.Iconize.Fonts.WeatherIconsCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>
+            The icons.
+            </value>
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.WeatherIconsCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:Plugin.Iconize.Fonts.WeatherIconsCollection" /> class.
+            </summary>
+        </member>
+        <member name="T:Plugin.Iconize.Fonts.WeatherIconsModule">
+            <summary>
+            Defines the <see cref="T:Plugin.Iconize.Fonts.WeatherIconsModule" /> icon module.
+            </summary>
+            <seealso cref="T:Plugin.Iconize.IconModule" />
+        </member>
+        <member name="M:Plugin.Iconize.Fonts.WeatherIconsModule.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Plugin.Iconize.Fonts.WeatherIconsModule" /> class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EFB997AA-F85A-4E7A-91C9-2DB3B0340F01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestLoginNavigation/TestLogin.cs">
+    <Files>
+      <File FileName="UnitTestLoginNavigation/UnitTestAppDelegate.cs" Line="24" Column="20" />
+      <File FileName="UnitTestLoginNavigation/TestLogin.cs" Line="44" Column="24" />
+      <File FileName="LoginNavigation/User.cs" Line="1" Column="1" />
+      <File FileName="UnitTestLoginNavigationAndroid/TestLogin.cs" Line="46" Column="24" />
+      <File FileName="UnitTestLoginNavigationAndroid/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnitTestLoginNavigationAndroid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/karlaelliott/Downloads/LoginFlow/LoginNavigation/LoginPageCS.cs" relfile="LoginNavigation/LoginPageCS.cs" line="99" column="1" />
+      <Breakpoint file="/Users/karlaelliott/Downloads/LoginFlow/LoginNavigation/LoginPageCS.cs" relfile="LoginNavigation/LoginPageCS.cs" line="81" column="1" />
+      <Breakpoint file="/Users/karlaelliott/Downloads/LoginFlow/LoginNavigation/LoginPageCS.cs" relfile="LoginNavigation/LoginPageCS.cs" line="80" column="1" />
+      <Breakpoint file="/Users/karlaelliott/Downloads/LoginFlow/LoginNavigation/LoginPageCS.cs" relfile="LoginNavigation/LoginPageCS.cs" line="79" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UnitTestLoginNavigation PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E9CB7AE8-54C9-475A-A413-67A440821FD3">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.UnitTestLoginNavigation>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LoginNavigation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E9CB7AE8-54C9-475A-A413-67A440821FD3" />
+  <MonoDevelop.Ide.ItemProperties.LoginNavigation.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
